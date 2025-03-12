@@ -33,21 +33,10 @@ git clone https://github.com/kakusingh120/E-Commerce-Website.git
 cd E-Commerce-Website
 
 
----
+### 2️⃣ Install Dependencies
+```sh
+npm install
 
-### install dependencies
-
-npm install 
-
----
-
-
-
----
-
-
-### Start the Development Server
-
+### 3️⃣ Start the Development Server
+```sh
 npm run dev
-
----
