@@ -28,15 +28,20 @@ A simple **e-commerce website** built using **React** and **localStorage** to st
 Follow these steps to set up the project on your local machine:  
 
 ### 1️⃣ Clone the Repository  
-```sh
+```bash
 git clone https://github.com/kakusingh120/E-Commerce-Website.git
-cd E-Commerce-Website
+```
 
+```bash
+cd E-Commerce-Website
+```
 
 ### 2️⃣ Install Dependencies
-```sh
+```bash
 npm install
+```
 
 ### 3️⃣ Start the Development Server
-```sh
+```bash
 npm run dev
+```
