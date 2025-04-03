@@ -23,7 +23,7 @@ A simple **e-commerce website** built using **React** and **localStorage** to st
 
 ---
 
-## 📂 Installation & Setup
+##  Installation & Setup
 
 Follow these steps to set up the project on your local machine:  
 
